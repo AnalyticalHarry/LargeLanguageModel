@@ -2,13 +2,13 @@
 
 Machine Learning Basics: Start with understanding types of machine learning (supervised, unsupervised, reinforcement learning), simple algorithms (linear regression, logistic regression), and model evaluation metrics.
 
-bash```
+```
 https://github.com/AnalyticalHarry/RegressionAnalysisPythonPortfolio
 ```
-bash```
+```
 https://github.com/AnalyticalHarry/RegressionAnalysisPythonPortfolio](https://github.com/AnalyticalHarry/DeepLearningForDigitClassification
 ```
-bash```
+```
 https://github.com/AnalyticalHarry/ClassificationPythonPortfolio
 ```
 Introduction to Neural Networks: Learn about the basics of neural networks, including perceptrons, activation functions, and the concept of backpropagation.
