@@ -1,4 +1,4 @@
-## Basics of Machine Learning and Deep Learning
+## Machine Learning and Deep Learning for Large Language Model (LLM)
 
 ##### 1. Machine Learning Basics:
 
@@ -71,3 +71,6 @@ Hands-on Projects: Implement projects across a range of applications (text gener
 Open Source Contribution: Contribute to open-source projects related to NLP and LLMs to gain real-world experience and collaborate with others.
 
 Approach: Start with small projects and gradually increase complexity. Use platforms like GitHub to find open-source projects in need of contributions. Document and share your work for feedback and collaboration.
+
+#### Hemant Thapa
+#### hemantthapa1998@gmail.com
